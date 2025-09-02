@@ -65,7 +65,7 @@ const ArchivePage = () => {
           <div className="container">
             <ShuffleText
               as="h1"
-              text="Archive 101: Starlight Reverie Celestial"
+              text="Archive 101: Cosmic Wonders and Celestial Dreams"
             />
             <div className="archive-hero-img-wrapper">
               <div className="archive-hero-img-wrapper-row">
@@ -94,8 +94,8 @@ const ArchivePage = () => {
                 <img src="/images/home/prompt-eg-1.jpeg" alt="" />
               </div>
               <div className="source-content">
-                <p className="primary">[ Original Source ]</p>
-                <h4>Gazing into the distance </h4>
+                <p className="primary">[ Primary Source ]</p>
+                <h4>The Unseen Gaze</h4>
               </div>
             </div>
           </div>
@@ -103,12 +103,12 @@ const ArchivePage = () => {
             <div className="container">
               <div className="gallery-copy">
                 <p className="primary">
-                  // PROMPT: A surrealist portrait of an enigmatic figure,
-                  bathed in moody lighting, gazing into the distance with an air
-                  of mystery.
+                  // PROMPT: A surreal portrait of an elusive figure, shrouded
+                  in atmospheric lighting, their gaze distant and contemplative,
+                  exuding an aura of secrets untold.
                 </p>
                 <p className="secondary">[ AI Character ]</p>
-                <h4>Midjourney</h4>
+                <h4>Leonardo AI</h4>
                 <div className="gallery-images-container">
                   <div className="gallery-row main-img">
                     <img src="/images/home/prompt-eg-2.jpeg" alt="" />
@@ -133,11 +133,11 @@ const ArchivePage = () => {
             <Marquee />
           </div>
           <div className="container">
-            <p className="primary">[ Archive 102 ]</p>
+            <p className="primary">[ Archive 101 ]</p>
             <div className="next-archive-img">
               <img src="/images/carousel/carousel2.jpeg" alt="" />
             </div>
-            <h2>The Infinite Eternity Flow</h2>
+            <h2>Eternal Infinity Currents</h2>
           </div>
         </section>
 

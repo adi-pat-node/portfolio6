@@ -59,7 +59,7 @@ const Navbar = () => {
       <div className="navbar-col">
         <div className="navbar-sub-col logo">
           <Link href="/">
-            <h3>Algora</h3>
+            <h3>Vireon</h3>
           </Link>
         </div>
         <div className="navbar-sub-col time">
@@ -69,16 +69,16 @@ const Navbar = () => {
       <div className="navbar-col">
         <div className="navbar-sub-col nav-items">
           <a href="#intro" onClick={(e) => handleNavigation(e, "intro")}>
-            <p>The Origins</p>
+            <p>The Beginnings</p>
           </a>
           <a
             href="#case-studies"
             onClick={(e) => handleNavigation(e, "case-studies")}
           >
-            <p>Highlights</p>
+            <p>Key Moments</p>
           </a>
           <a href="#works" onClick={(e) => handleNavigation(e, "works")}>
-            <p>Innovations</p>
+            <p>Pioneering Works</p>
           </a>
         </div>
         <div className="navbar-sub-col music-toggle-wrapper">

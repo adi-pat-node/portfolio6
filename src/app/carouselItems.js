@@ -1,21 +1,21 @@
 export const carouselItems = [
   {
     id: "101",
-    title: "Starlight Reverie Celestial",
+    title: "Beyond the Stars",
     bg: "/images/carousel/carousel1.jpeg",
     main: "/images/carousel/carousel1.jpeg",
     url: "/archive",
   },
   {
     id: "102",
-    title: "The Infinite Eternity Flow",
+    title: "Eternal Infinity Currents",
     bg: "/images/carousel/carousel2.jpeg",
     main: "/images/carousel/carousel2.jpeg",
     url: "/archive",
   },
   {
     id: "103",
-    title: "Aurora's Horizon Colors",
+    title: "Colors of the Dawn",
     bg: "/images/carousel/carousel3.jpeg",
     main: "/images/carousel/carousel3.jpeg",
     url: "/archive",

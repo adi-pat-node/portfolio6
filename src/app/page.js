@@ -189,8 +189,8 @@ export default function Home() {
           <div className="container">
             <div className="hero-copy">
               <div className="hero-copy-col">
-                <ShuffleText as="h3" text="A brief journey into" />
-                <ShuffleText as="h1" text="The Fusion of Art and Algorithms" />
+                <ShuffleText as="h3" text="A glimpse into" />
+                <ShuffleText as="h1" text="Where Art Meets Code" />
               </div>
               <div className="hero-copy-col">
                 <div className="hero-icon">
@@ -209,31 +209,31 @@ export default function Home() {
           <div className="intro-container">
             <div className="container">
               <div className="col">
-                <p className="primary">[ Setting the Scene ]</p>
+                <p className="primary">[ Painting the picture ]</p>
               </div>
               <div className="col">
                 <div className="intro-copy">
                   <p>
-                    Algora has revolutionized the creative potential of AI,
-                    advancing from basic, low-resolution outputs to producing
-                    hyper-realistic, high-definition visuals that push the
-                    boundaries of imagination and innovation.
+                    Vireon has transformed the landscape of AI creativity,
+                    evolving from simple, low-resolution designs to crafting
+                    hyper-realistic, high-definition visuals that redefine the
+                    limits of imagination and technological innovation
                   </p>
                   <p>
-                    This progress has opened the doors to powerful visual
-                    creation tools for users of all skill levels, from seasoned
-                    professionals to casual creators. Yet, it has also raised
-                    critical debates around the ethical challenges of
-                    AI-generated content, such as intellectual property
-                    disputes, the spread of false information, and questions
-                    surrounding the essence of true artistic expression.
+                    This advancement has unlocked powerful creative tools for
+                    users of all experience levels, ranging from industry
+                    experts to casual creators. However, it has also sparked
+                    important conversations about the ethical implications of
+                    AI-generated content, including concerns over intellectual
+                    property, the potential for misinformation, and the ongoing
+                    debate about the authenticity of artistic expression
                   </p>
                 </div>
                 <div className="prompt-example">
                   <div className="prompt-example-header">
                     <h4>
                       // PROMPT: A sci-fi fashion portrait of a person in
-                      futuristic attire
+                      futuristic fashion
                     </h4>
                   </div>
                   <div className="prompt-example-results">
@@ -243,7 +243,7 @@ export default function Home() {
                         <div className="hero-img-overlay"></div>
                       </div>
                       <div className="prompt-example-result-item-title">
-                        <h4>2016 — Built with pioneering generative tools</h4>
+                        <h4>2018 - Created using innovative technologies</h4>
                       </div>
                     </div>
                     <div className="prompt-example-result-item">
@@ -252,7 +252,7 @@ export default function Home() {
                         <div className="hero-img-overlay"></div>
                       </div>
                       <div className="prompt-example-result-item-title">
-                        <h4>2024 — Created with Algora V2</h4>
+                        <h4>2025 — Created with Vireon V2</h4>
                       </div>
                     </div>
                   </div>
@@ -267,7 +267,7 @@ export default function Home() {
             <div className="container">
               <ShuffleText
                 as="h2"
-                text="Dive Into New Success Stories"
+                text="Explore Fresh Success Stories"
                 triggerOnScroll={true}
               />
             </div>
@@ -279,12 +279,11 @@ export default function Home() {
               </div>
               <div className="col">
                 <div className="case-studies-copy">
-                  <h2>How is AI Reshaping Artistic Boundaries?</h2>
+                  <h2>What Ways is AI Redefining Artistic Limits?</h2>
                   <p>
-                    Generative AI has rapidly advanced, moving beyond its humble
-                    beginnings of basic visual outputs to now creating stunning,
-                    lifelike artworks that challenge our perceptions of
-                    creativity and technology.
+                    Generative AI has evolved swiftly, progressing from simple
+                    visuals to producing breathtaking, realistic art that pushes
+                    the boundaries of creativity and technology
                   </p>
                 </div>
               </div>
@@ -296,8 +295,8 @@ export default function Home() {
           <div className="case-studies-items-content col">
             <div className="case-studies-item case-studies-item-1">
               <div className="container">
-                <h3>Art in the Age of Algorithms</h3>
-                <p className="primary">[ Lumina Horizon — Zara Lee ]</p>
+                <h3>Creativity in the Era of Algorithms</h3>
+                <p className="primary">[ Lumina Horizon — Tara Lee ]</p>
                 <div className="case-studies-item-inner-img">
                   <img
                     src="/images/home/case-study-1.jpeg"
@@ -305,14 +304,14 @@ export default function Home() {
                   />
                 </div>
                 <p>
-                  Zara Lee’s AI-powered installation captivates audiences at the
-                  Global Digital Arts Forum, raising questions about the fusion
-                  of human intent and machine precision. The work highlights the
-                  limitless potential of AI as a creative partner in the world
-                  of modern art.
+                  Tara Lee's AI-driven installation mesmerizes audiences at the
+                  Global Digital Arts Forum, sparking discussions on the
+                  interplay between human creativity and machine accuracy. The
+                  piece showcases AI's boundless potential as a collaborator in
+                  contemporary art.
                 </p>
                 <div className="case-studies-item-inner-link">
-                  <Link href="/archive">Discover the Journey</Link>
+                  <Link href="/archive">Uncover the Path</Link>
                   <div className="link-icon">
                     <MdArrowOutward size={24} />
                   </div>
@@ -322,8 +321,10 @@ export default function Home() {
 
             <div className="case-studies-item case-studies-item-2">
               <div className="container">
-                <h3>The Dawn of AI-Driven Fashion</h3>
-                <p className="primary">[ Visionary Threads — Elena Marquez ]</p>
+                <h3>The Rise of AI-Powered Fashionn</h3>
+                <p className="primary">
+                  [ Innovative Fabrics — Chary Marquez ]
+                </p>
                 <div className="case-studies-item-inner-img">
                   <img
                     src="/images/home/case-study-2.jpeg"
@@ -331,11 +332,11 @@ export default function Home() {
                   />
                 </div>
                 <p>
-                  Elena Marquez launches the first fashion magazine curated
-                  entirely by AI, featuring futuristic designs and concepts that
-                  redefine the boundaries of creativity. While widely praised
-                  for its innovation, the magazine ignites debates over the role
-                  of human designers in a machine-led creative process.
+                  Chary Marquez unveils the first fashion magazine curated
+                  entirely by AI, showcasing futuristic designs that push the
+                  limits of creativity. While hailed for its innovation, the
+                  magazine sparks debates about the place of human designers in
+                  a machine-driven creative world.
                 </p>
                 <div className="case-studies-item-inner-link">
                   <Link href="/archive">Read Full Story</Link>
@@ -347,9 +348,9 @@ export default function Home() {
             </div>
             <div className="case-studies-item case-studies-item-3">
               <div className="container">
-                <h3>The Rise of AI-Curated Art Awards</h3>
+                <h3>The Emergence of AI-Driven Art Awards</h3>
                 <p className="primary">
-                  [ Synthetic Realities — Sophia Armitage ]
+                  [ Constructed Realities — Jenny Smith ]
                 </p>
                 <div className="case-studies-item-inner-img">
                   <img
@@ -358,14 +359,14 @@ export default function Home() {
                   />
                 </div>
                 <p>
-                  Sophia Armitage’s groundbreaking AI-curated exhibition
-                  highlights the creative potential of machine-generated art.
-                  The event features photorealistic works of entirely fictional
-                  subjects, sparking a discussion about bias, authenticity, and
-                  AI’s role in shaping the future of artistic recognition.
+                  Jenny Smith's revolutionary AI-curated exhibition showcases
+                  the boundless creativity of machine-generated art. The
+                  collection presents hyper-realistic depictions of entirely
+                  fictional subjects, authenticity, and the evolving role of AI
+                  in the future of artistic recognition.
                 </p>
                 <div className="case-studies-item-inner-link">
-                  <Link href="/archive">Explore the Exhibit</Link>
+                  <Link href="/archive">Discover the Showcase</Link>
                   <div className="link-icon">
                     <MdArrowOutward size={24} />
                   </div>
@@ -438,15 +439,15 @@ export default function Home() {
           <div className="works-content">
             <div className="container">
               <div className="col">
-                <p className="primary">[ Creative Explorations ]</p>
+                <p className="primary">[ Artistic Journeys ]</p>
               </div>
               <div className="col">
                 <div className="works-copy">
-                  <h2>Can machines innovate Like Human Artists?</h2>
+                  <h2>Can Machines Create Like Human Artists?</h2>
                   <p>
-                    These experiments explore the potential of advanced AI
-                    tools, such as Midjourney and DALL-E 3, to reimagine classic
-                    masterpieces through unique and boundary-pushing prompts.
+                    These experiments delve into the capabilities of advanced AI
+                    tools like Midjourney and DALL-E 3, reinterpreting classic
+                    masterpieces with innovative and bold prompts
                   </p>
                 </div>
               </div>
